@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import { FaAward, FaVideo, FaRocket } from "react-icons/fa";
 
 // Note: Add a profile picture to /public/images/
-const profilePic = "/images/raj-halwai-profile.jpg";
+const profilePic = "/images/raj-halwai-profile.JPG";
 
 const skills = [
   { name: "Adobe After Effects", level: 95 },
